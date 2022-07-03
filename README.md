@@ -18,20 +18,8 @@
 #### 1. Clone o projeto
 
 ```
-git clone https://github.com/edurib17/discord-bot-music-node.git
-cd discord-bot-music-node
-```
-
-#### 2. Atualize as dependencias
-
-```
-yarn
+https://github.com/VegaKunn/VegaBot.git
+ 
+ 
 npm install
-```
-
-#### 3. Execute o projeto
-
-```
-yarn start
-npm start
-```
+ 

@@ -1,4 +1,4 @@
-# discord-bot-music-node
+# VegaBot
 
 ### Tecnologias Utilizadas:
 
